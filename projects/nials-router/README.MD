@@ -33,14 +33,15 @@ Price: 300 Euro
 
 [Ebay](https://www.ebay.es/itm/ACT-Motor-GmbH-4Axis-Nema23-CNC-Kit-23HS2442-Single-Shaft-4-2A-112mm-425oz-in/253051277058?hash=item3aeb080f02:g:rw4AAOSwIGlZbdCU)
 
-Drivers & Power supplies included
+Drivers & Power supplies & Mach3 interface card included
 
 # Misc
 
 - Home/Limit Switches : 30 Euro
-- Shielded Cables: 40 Euro
+- Shielded Cables: 40 Euro | Optional, otherwise 20 Euro for normal wires
 - Ferrite Cores for extra shielding: 15 Euro
 - Motor couplers : 20 Euros (8mm to 10 mm), custom made
+- Control-Box, custom made, 15 Euro
 
 # Spindle
 
