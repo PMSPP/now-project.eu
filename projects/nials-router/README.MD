@@ -55,7 +55,7 @@ TODO: Discussable since any hand router could be retro fitted
 
 # Chassy
 
-Custom made, 5cm tubes
+Custom made, 5cm tubes, 40 Euro material (tubes, welding )
 
 ----------------------------------------------------------
 
