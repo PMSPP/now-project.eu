@@ -53,7 +53,9 @@ Ebay: TODO
 
 Custom made, 5cm tubes
 
-Total Currently : 600 Euro 
+----------------------------------------------------------
+
+*Total* Currently : 600 Euro 
 
 
 
