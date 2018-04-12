@@ -1,4 +1,73 @@
 # General Design
 
-![./Router-102-Profile.png](Design)
+![Design](./Router-102-Profile.png)
+
+# Rails
+
+- 20 mm stainless, for SF20UU trucks: 40 Euro 
+- custom supports, made in aluminum: 20 Euro
+
+![](Accordion-bellow-protective-cover-fit-the-SBR20UU-linear-bearing.jpg)
+
+Quantity : 20
+Price Total : 60 Euro
+
+# Lead Screws
+
+Type : SFU1605
+
+Quantity : 
+
+2x 1.00 meter [Ebay](https://www.ebay.de/itm/EU-No-VAT-SFU1605-L800mm-Ballscrew-end-machined-Nut-BK-BF12-Support-Nut-housing/162964857789?hash=item25f17663bd:g:tOgAAOSwUoNaF9DN)
+1x 60 cm 
+
+Price : 150 - 200 Euro
+
+# Motors
+
+Type : Nema - 23
+
+Quantity: 4 (2 for y axis, slaved)
+
+Price: 300 Euro
+
+[Ebay](https://www.ebay.es/itm/ACT-Motor-GmbH-4Axis-Nema23-CNC-Kit-23HS2442-Single-Shaft-4-2A-112mm-425oz-in/253051277058?hash=item3aeb080f02:g:rw4AAOSwIGlZbdCU)
+
+Drivers & Power supplies included
+
+# Misc
+
+- Home/Limit Switches : 30 Euro
+- Shielded Cables: 40 Euro
+- Ferrite Cores for extra shielding: 15 Euro
+
+# Spindle
+
+Type: ERC-20 Collet
+
+Price:  110 - 250 Euro, air cooled
+
+Ebay: TODO
+
+# Chassy
+
+Custom made, 5cm tubes
+
+Total Currently : 600 Euro 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
