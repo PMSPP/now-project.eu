@@ -40,6 +40,7 @@ Drivers & Power supplies included
 - Home/Limit Switches : 30 Euro
 - Shielded Cables: 40 Euro
 - Ferrite Cores for extra shielding: 15 Euro
+- Motor couplers : 20 Euros (8mm to 10 mm), custom made
 
 # Spindle
 
@@ -48,6 +49,8 @@ Type: ERC-20 Collet
 Price:  110 - 250 Euro, air cooled
 
 Ebay: TODO
+
+TODO: Discussable since any hand router could be retro fitted
 
 # Chassy
 
