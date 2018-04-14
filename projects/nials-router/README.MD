@@ -4,8 +4,8 @@
 
 # Rails
 
-- 20 mm stainless, for SF20UU trucks: 40 Euro 
-- custom supports, made in aluminum: 20 Euro
+- 10m x 20 mm diameter stainless, (SF20UU trucks):  118 Euro 
+- custom supports, made in aluminum: 30 Euro
 
 ![](Accordion-bellow-protective-cover-fit-the-SBR20UU-linear-bearing.jpg)
 
