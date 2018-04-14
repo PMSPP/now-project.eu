@@ -19,6 +19,7 @@ Type : SFU1605
 Quantity : 
 
 2x 1.00 meter [Ebay](https://www.ebay.de/itm/EU-No-VAT-SFU1605-L800mm-Ballscrew-end-machined-Nut-BK-BF12-Support-Nut-housing/162964857789?hash=item25f17663bd:g:tOgAAOSwUoNaF9DN)
+
 1x 60 cm 
 
 Price : 150 - 200 Euro
