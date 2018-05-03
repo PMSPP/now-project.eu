@@ -1,5 +1,7 @@
 # Shredder Materials & Fees
 
+
+
 ## Shredder - Box (Blades)
 
 Stainless variant : 170 Euro (Incl. transport & stainless)
@@ -32,3 +34,6 @@ Metal Variant : 150 Euro
 - With Stainless & Inverter & Reducer: 660 (100e for labour)
 - With metal & wheel: 460 Euro (100e for labour)
 
+*Changelog*
+
+- Added laser files, with modifications for new hex bar
