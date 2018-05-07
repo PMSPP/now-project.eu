@@ -1,0 +1,3 @@
+1	执行 Mach3VersionR3.041安装程序 安装mach3软件
+2	将 Mach3汉化和破解 解压，解压后的文件拷贝至mach3的安装文件夹中（通常是在C盘的Mach3里面），拷贝时Mach3软件不能运行
+3	运行桌面上的Mach3Mill
